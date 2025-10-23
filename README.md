@@ -1,7 +1,7 @@
 <h3>👋 Hi, I'm Michael! (he/him)</h3>
 
 <p>
-  I'm a software engineer who loves getting his hands dirty in <em>any</em> kind of code, but my biggest love is the front-end, and working directly with users. I have 
+  I'm a software engineer who loves getting his hands dirty in any kind of code, but my biggest love is the front-end, and working directly with users. I have 
   experience scaling up enterprise UIs in React/TypeScript codebases, and am happy to talk your ear off about why TypeScript is both the greatest and worst thing in the world. 
 </p>
 
