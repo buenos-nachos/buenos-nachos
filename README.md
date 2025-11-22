@@ -9,7 +9,6 @@
   <i>The internet should be for everyone.</i>
 </p>
 
-&nbsp;
 <details>
   <summary><b>🤠Fun Facts</b></summary>
   <p>
