@@ -9,16 +9,6 @@
   <i>The internet should be for everyone.</i>
 </p>
 
-<div align="center">  
-  <a href="https://www.linkedin.com/in/buenos-nachos/">
-    <img src="https://img.shields.io/badge/%20-Check%20out%20my%20LinkedIn-black?color=14171A&labelColor=0e76a8&logo=linkedin&logoColor=ffffff" />
-  </a>
-    
-  <a href="mailto:michael-eric-smith@pm.me">
-    <img src="https://img.shields.io/badge/%20-Send%20me%20an%20email-black?color=14171A&labelColor=D44638&logo=maildotru&logoColor=ffffff" />
-  </a>
-</div>
-
 &nbsp;
 <details>
   <summary><b>🤠Fun Facts</b></summary>
