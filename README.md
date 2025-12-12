@@ -13,10 +13,6 @@
   I believe that all code should strive for (provable) correctness, and "wishful thinking programming" doesn't cut it for any production system.
 </p>
 
-<p>
-  I believe the internet should be for everyone, and that it's our job as developers to make it as accessible as possible.
-</p>
-
 <h4>🤠 Recent work</h4>
 <p>
   Previously I worked for <a href="https://coder.com/">Coder</a>, the industry leader in Cloud Development Environments (CDEs). There, I led the charge on a number of frontend initiatives, as well
