@@ -14,13 +14,7 @@
 </p>
 
 <p>
-  I have written library code in React and TypeScript several times in my career, and can tell you all the tips and tricks for getting React's APIs and TypeScript's types to do what you want. At the same
-  time, while TypeScript has the most powerful type system in the world, I firmly believe that unless you're writing library code, your types should follow Go's simplicity as much as possible. There is
-  such a thing as being too clever.
-</p>
-
-<p>
-  I believe in an accessible internet, and believe that it should be for everyone.
+  I believe should be for everyone. And that it's our job as developers to make it as accessible as possible.
 </p>
 
 
