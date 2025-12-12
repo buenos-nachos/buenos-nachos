@@ -13,7 +13,8 @@
   I believe that all code should strive for (provable) correctness, and "wishful thinking programming" doesn't cut it for any production system.
 </p>
 
-<h4>🤠 Recent work</h4>
+<details>
+<summary>🤠 Click for recent work</summary>
 <p>
   Previously I worked for <a href="https://coder.com/">Coder</a>, the industry leader in Cloud Development Environments (CDEs). There, I led the charge on a number of frontend initiatives, as well
   as a number of features for the core product infrastructure. My two biggest claims to fame are:
@@ -28,3 +29,4 @@
 </p>
 
 <p>I also handled a lot of hiring and interviews, and designed the problems and guidelines for evaluating Coder's first-ever staff-level frontend position.</p>
+</details>
