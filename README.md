@@ -23,7 +23,7 @@
   as a number of features for the core product infrastructure. My two biggest claims to fame are:
   <ol>
     <li>🎸 I was the lead developer for Coder's SDK in Spotify's Backstage platform</li>
-    <li>🤝 I was co-lead for the re-launch of Coder's Registry platform, handling the backend services, the community repo for publishing new plugins, and the public catalog website.</li> 
+    <li>🤝 I was co-lead for the re-launch/rewrite/re-architecture of Coder's Registry platform, handling the backend services, the community repo for publishing new plugins, and the public catalog website.</li> 
   </ol>
 </p>
 
