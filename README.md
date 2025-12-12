@@ -2,8 +2,15 @@
 
 <p>
   I'm a software engineer with 3+ years of professional experience and 10+ years of hobbyist experience. I'm always happy to get my hands dirty with any kind of computing, but my areas of expertise
-  are UI programming, visual design, state modeling, and accessibility. I believe that all code should strive for (provable) correctness, and "wishful thinking programming" doesn't cut it for any
-  production system.
+  are:
+  <ol>
+    <li>✨UI programming</li>
+    <li>⚛️ State modeling</li>
+    <li>🧪 Software testing</li>
+    <li>✨ Visual design</li>
+    <li>♿️ Web accessibility and compliance/auditing</li>
+  </ol>
+  I believe that all code should strive for (provable) correctness, and "wishful thinking programming" doesn't cut it for any production system.
 </p>
 
 <p>
