@@ -19,8 +19,8 @@
 <summary>🤠 Click for recent work</summary>
 <p></p>
 <p>
-  Previously I worked for <a href="https://coder.com/">Coder</a>, the industry leader in Cloud Development Environments (CDEs). There, I led the charge on a number of frontend initiatives, as well
-  as a number of features for the core product infrastructure. My two biggest claims to fame are:
+  Previously I worked as a professional open-source developer for <a href="https://coder.com/">Coder</a>, the industry leader in Cloud Development Environments (CDEs). There, I led the charge on a
+  number of frontend initiatives, as well as a number of features for the core product infrastructure. My two biggest claims to fame are:
   <ol>
     <li>🎸 I was the lead developer for Coder's SDK in Spotify's Backstage platform</li>
     <li>🤝 I was co-lead for the re-achitecture and re-launch of Coder's Registry platform, handling the backend services, the community repo for publishing new plugins, and the public catalog website.</li> 
