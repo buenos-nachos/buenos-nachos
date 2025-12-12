@@ -1,4 +1,4 @@
-<h3>👋 Hi, I'm Michael! (he/they) 🤠</h3>
+<h3>👋 Hi, I'm Michael! (he/they)</h3>
 
 <p>
   I'm a software engineer with 3+ years of professional experience and 10+ years of hobbyist experience. I'm always happy to get my hands dirty with any kind of computing, but my areas of expertise
@@ -10,13 +10,13 @@
   I believe the internet should be for everyone, and that it's our job as developers to make it as accessible as possible.
 </p>
 
-<h4>Recent work</h4>
+<h4>🤠 Recent work</h4>
 <p>
   Previously I worked for <a href="https://coder.com/">Coder</a>, the industry leader in Cloud Development Environments (CDEs). There, I led the charge on a number of frontend initiatives, as well
   as a number of features for the core product infrastructure. My two biggest claims to fame are that I was the lead developer for Coder's SDK in Spotify's Backstage platform, and that I was co-lead
   for the re-launch of Coder's Registry platform, handling the backend services, the community repo for publishing new plugins, and the public catalog website. I was regarded as the TypeScript domain
-  expert within the company, and provided a lot of consulting, dogfooding, and feedback for <a href="https://github.com/coder/guts">Coder's "Go Unto TypeScript" (GUTS) package</a>.
+  expert within the company, and provided a lot of consulting, dogfooding, and feedback for <a href="https://github.com/coder/guts">Coder's "Go Unto TypeScript" (GUTS) package</a>. I also handled a
+  lot of hiring and interviews, and designs the problems and guidelines for evaluating Coder's first-ever staff-level frontend positions.
 </p>
-
 
 
