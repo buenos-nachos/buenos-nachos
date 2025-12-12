@@ -14,9 +14,9 @@
 <p>
   Previously I worked for <a href="https://coder.com/">Coder</a>, the industry leader in Cloud Development Environments (CDEs). There, I led the charge on a number of frontend initiatives, as well
   as a number of features for the core product infrastructure. My two biggest claims to fame are that I was the lead developer for Coder's SDK in Spotify's Backstage platform, and that I was co-lead
-  for the re-launch of Coder's Registry platform, handling the backend services, the community repo for publishing new plugins, and the public catalog website. I was regarded as the TypeScript domain
-  expert within the company, and provided a lot of consulting, dogfooding, and feedback for <a href="https://github.com/coder/guts">Coder's "Go Unto TypeScript" (GUTS) package</a>. I also handled a
-  lot of hiring and interviews, and designs the problems and guidelines for evaluating Coder's first-ever staff-level frontend positions.
+  for the re-launch of Coder's Registry platform, handling the backend services, the community repo for publishing new plugins, and the public catalog website.
 </p>
-
-
+<p>
+  I was regarded as the TypeScript domain expert within the company, and provided a lot of consulting, dogfooding, and feedback for <a href="https://github.com/coder/guts">Coder's "Go Unto TypeScript" (GUTS) package</a>.
+</p>
+<p>I also handled a lot of hiring and interviews, and designed the problems and guidelines for evaluating Coder's first-ever staff-level frontend position.</p>
