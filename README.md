@@ -1,4 +1,4 @@
-<h3>👋 Hi, I'm Michael! (he/they)</h3>
+<h3>👋 Hi, I'm Michael!</h3>
 
 <p>
   I'm a software engineer with 3+ years of professional experience and 10+ years of hobbyist experience. I'm always happy to get my hands dirty with any kind of computing, but my areas of expertise
