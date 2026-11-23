@@ -1,4 +1,4 @@
-<h3>👋 Hi, I'm Michael!</h3>
+<h3>👋 Hi, I'm Micki!</h3>
 
 <p>
   I'm a software engineer who likes making funky interfaces and making sure things don't randomly break on people. I'm always happy to get my hands dirty with any kind of computing, but my areas of expertise
